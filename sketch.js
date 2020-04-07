@@ -22,7 +22,7 @@ var redWin1 = $("#one.red, #two.red, #three.red").length === 3
   var redWin5 = $("#two.red, #five.red, #eight.red").length === 3
   var redWin6 = $("#three.red, #six.red, #nine.red").length === 3
   var redWin7 = $("#one.red, #five.red, #nine.red").length === 3
-  var redWin8 = $("#seven.red, #five.red, #three.red").length === 3;
+  var redWin8 = $("#seven.red, #five.red, #three.red").length === 3
 //var winningCombos = [x]
   //refactor below too... not DRY at all!!!
   //note: playerOne is always blue
